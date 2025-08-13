@@ -4,7 +4,7 @@ A comprehensive analytics project for Ultimate Frisbee game data, featuring inte
 
 ## Features
 
-### 🏈 Interactive Network Visualization
+### 🥏 Interactive Network Visualization
 - **Player Chemistry Analysis**: Interactive D3.js network showing pass completion relationships
 - **Multi-Player Selection**: Select specific players to analyze their chemistry
 - **Mode Switching**: View All/Throws/Receptions patterns
