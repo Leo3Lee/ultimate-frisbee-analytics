@@ -1,0 +1,864 @@
+game_id,point_uid,team_line,player,touches,throws,completions,assists,secondary_assists,goals,turnovers,blocks,pulls,yards_gain_m,score_diff_start,point_result,num_possessions,clean_hold,hold,broken,break_scored,break_chance,hucks,swings,dumps
+Blok Choy,Blok Choy_P01,D,Gary Gong,5,4,1,0,0,0,3,0,0,64.49,0,1,4,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P03,O,Gary Gong,2,1,1,0,0,0,0,0,0,15.59,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P05,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Gary Gong,2,1,1,0,1,0,0,0,0,23.59,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Gary Gong,4,2,2,1,0,0,0,0,0,57.87,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P11,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Gary Gong,4,2,2,1,0,0,0,0,0,18.03,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Gary Gong,6,3,3,0,0,0,0,0,0,26.44,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Gary Hu,5,3,3,1,0,0,0,0,0,12.58,0,1,4,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P03,O,Gary Hu,2,2,1,0,0,0,1,0,0,44.63,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P05,D,Gary Hu,3,2,1,0,0,0,1,0,0,23.48,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P08,D,Gary Hu,3,2,2,0,0,0,0,0,0,5.36,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P10,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Gary Hu,2,1,1,0,0,0,0,0,0,9.07,1,0,1,0,0,0,0,1,0,1,0
+Blok Choy,Blok Choy_P16,O,Gary Hu,2,1,1,0,0,0,0,0,0,9.12,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Kaylee,9,4,4,0,0,1,0,0,0,49.01,-1,1,5,0,1,0,0,0,0,0,2
+Blok Choy,Blok Choy_P06,O,Kaylee,2,1,1,0,0,0,0,0,0,5.3,-1,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P08,D,Kaylee,5,2,1,0,0,1,1,0,0,45.34,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P11,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Kaylee,4,2,2,1,0,0,0,0,0,16.91,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Avery Qi,2,1,1,0,0,0,0,0,0,-5.15,0,1,4,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P05,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Avery Qi,6,3,3,0,0,0,0,0,0,10.1,-1,1,5,0,0,0,1,1,0,0,2
+Blok Choy,Blok Choy_P10,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Avery Qi,1,1,1,0,0,0,0,0,0,-4.58,1,0,4,0,0,1,0,0,0,1,0
+Blok Choy,Blok Choy_P15,O,Avery Qi,3,1,1,0,0,1,0,0,0,9.02,0,1,1,1,1,0,0,0,0,0,1
+Blok Choy,Blok Choy_P02,D,Leo,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Leo,8,4,3,1,0,0,1,0,0,86.19,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Leo,5,3,3,0,0,0,0,1,0,43.26,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P10,D,Leo,6,3,2,1,0,0,1,0,0,79.62,1,1,2,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P13,O,Leo,3,1,1,0,1,1,0,0,0,45.7,0,1,1,1,1,0,0,0,0,0,1
+Blok Choy,Blok Choy_P14,D,Leo,2,1,1,0,0,0,0,0,0,27.46,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P01,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Luo Wei,2,1,1,0,0,0,0,0,0,13.04,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P16,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,SA,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,SA,6,4,4,0,0,0,0,0,0,28.12,-1,1,5,0,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P06,O,SA,3,2,1,0,0,0,1,0,0,18.75,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,SA,7,5,3,0,1,0,2,0,0,31.2,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P12,O,SA,4,2,2,0,0,0,0,0,0,39.63,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P16,O,SA,3,2,2,0,0,0,0,0,0,10.34,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Albert Kwek,11,7,5,0,0,0,2,0,0,48.4,-1,1,5,0,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P07,O,Albert Kwek,10,5,4,1,0,0,1,0,0,89.86,-2,1,2,0,1,0,0,0,1,0,1
+Blok Choy,Blok Choy_P09,D,Albert Kwek,10,6,6,0,0,0,0,0,0,43.45,0,1,2,0,0,0,1,1,0,2,0
+Blok Choy,Blok Choy_P12,O,Albert Kwek,4,3,2,0,0,0,1,2,0,23.91,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P16,O,Albert Kwek,6,3,2,0,0,0,1,0,0,54.66,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Taozi,1,0,0,0,0,1,0,0,0,43.35,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Taozi,4,2,2,0,0,0,0,1,0,34.9,0,1,2,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P13,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Olivia ,8,4,4,0,1,0,0,0,0,43.05,0,1,2,0,0,0,1,1,0,0,2
+Blok Choy,Blok Choy_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,JF,3,1,1,0,0,1,0,0,0,30.06,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,JF,2,1,1,0,0,0,0,0,0,6.62,0,0,1,0,0,0,0,1,0,0,1
+Blok Choy,Blok Choy_P08,D,JF,8,4,3,1,0,0,1,0,0,96.99,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P10,D,JF,5,2,2,0,0,1,0,0,0,71.42,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P14,D,JF,3,2,1,0,0,0,1,0,0,57.36,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P04,O,Chris,20,10,9,0,1,0,1,0,0,118.29,-1,1,5,0,1,0,0,0,0,1,1
+Blok Choy,Blok Choy_P07,O,Chris,4,3,3,0,0,0,0,0,0,-0.05,-2,1,2,0,1,0,0,0,0,1,1
+Blok Choy,Blok Choy_P10,D,Chris,6,4,4,0,1,0,0,0,0,53.03,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P13,O,Chris,3,2,2,0,0,0,0,0,0,50.99,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Chris,6,3,3,0,0,0,0,0,0,37.75,0,1,1,1,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P03,O,Gordon,2,1,0,0,0,0,1,0,0,23.28,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Gordon,3,2,2,0,0,0,0,0,0,14.52,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Gordon,6,3,2,0,0,0,1,0,0,24.81,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Gordon,9,5,3,0,0,0,2,0,0,97.81,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Gordon,3,2,2,0,1,0,0,0,0,18.19,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P04,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Lina,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P10,D,Lina,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P14,D,Lina,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P02,D,Sky,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Sky,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Sky,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Sky,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Wayne Wang,2,1,0,0,0,0,1,0,0,8.2,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P05,D,++1,2,1,1,0,0,0,0,0,0,-12.28,0,0,1,0,0,0,0,1,0,0,1
+Blok Choy,Blok Choy_P07,O,++1,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,++1,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,++1,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P03,O,Shellz,4,2,2,0,0,0,0,0,0,4.89,0,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P06,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P10,D,Shellz,2,1,1,0,0,0,0,0,0,15.59,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P03,O,Mini,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Mini,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Mini,4,2,1,0,0,0,1,0,0,31.28,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P03,O,TARA,2,1,1,0,0,0,0,0,0,2.55,0,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P13,O,TARA,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,DJJ,9,4,4,0,0,1,0,0,0,47.38,0,1,2,0,0,0,1,1,0,0,3
+Blok Choy,Blok Choy_P11,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P03,O,Wenyu Zhu,2,1,1,0,0,0,0,0,0,1.88,0,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Leo,1,1,1,0,0,0,0,0,0,0.25,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Leo,3,1,1,0,0,1,0,0,0,42.06,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Leo,1,0,0,0,0,1,0,0,0,28.9,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Leo,3,1,0,0,0,1,1,0,0,35.87,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Leo,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Leo,3,1,1,0,0,1,0,0,0,29.09,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Leo,5,3,2,0,0,0,1,1,0,59.38,-6,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P18,O,Leo,1,1,1,1,0,0,0,1,0,26.32,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,JF,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,JF,18,9,7,0,0,0,2,0,0,125.43,-1,0,5,0,0,1,0,0,1,1,1
+Cookit Cutters,Cookit Cutters_P03,O,JF,3,2,2,0,0,0,0,1,0,18.21,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,JF,6,3,3,1,0,0,0,0,0,65.86,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,JF,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,JF,2,2,2,1,0,0,0,0,0,21.03,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,JF,19,12,8,0,0,0,4,3,0,141.51,-3,0,9,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,JF,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,JF,9,6,4,1,0,0,2,1,0,85.95,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,JF,1,1,1,0,0,0,0,0,0,-2.18,-7,0,2,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P19,D,JF,4,2,1,0,0,0,1,0,0,45.27,-8,1,3,0,0,0,1,1,0,1,0
+Cookit Cutters,Cookit Cutters_P01,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Avery Qi,2,1,1,0,0,0,0,0,0,3.66,-2,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P05,O,Avery Qi,4,2,1,0,0,0,1,0,0,22.17,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Avery Qi,8,4,3,0,0,0,1,0,0,47.55,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P13,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Avery Qi,6,3,3,0,0,0,0,0,0,9.5,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,Avery Qi,2,1,1,0,0,0,0,0,0,16.92,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Avery Qi,1,1,1,0,0,0,0,0,0,6.58,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Olivia ,2,1,0,0,0,0,1,0,0,8.21,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Olivia ,2,1,1,0,0,0,0,0,0,9.3,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Olivia ,0,0,0,0,0,0,0,1,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Albert Kwek,1,1,1,0,0,0,0,0,0,10.39,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Albert Kwek,11,7,6,0,0,0,1,0,0,-0.25,-1,0,5,0,0,1,0,0,0,2,1
+Cookit Cutters,Cookit Cutters_P04,O,Albert Kwek,1,1,1,0,0,0,0,0,0,2.72,-3,0,1,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P05,O,Albert Kwek,3,2,2,0,0,0,0,0,0,11.18,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Albert Kwek,4,2,2,1,0,0,0,0,0,50.02,-5,1,1,1,1,0,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P11,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Albert Kwek,10,6,4,0,1,0,2,0,0,85.35,-5,1,5,0,1,0,0,0,0,1,1
+Cookit Cutters,Cookit Cutters_P15,O,Albert Kwek,9,5,5,0,0,0,0,0,0,-0.49,-6,0,3,0,0,1,0,0,0,2,2
+Cookit Cutters,Cookit Cutters_P17,O,Albert Kwek,2,1,1,0,0,0,0,0,0,10.54,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Albert Kwek,3,1,1,0,0,1,0,0,0,44.48,-8,1,3,0,0,0,1,1,0,0,1
+Cookit Cutters,Cookit Cutters_P01,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Gary Gong,2,1,1,0,0,0,0,0,0,15.34,-2,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P04,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Gary Gong,6,3,3,0,0,0,0,0,0,33.6,-3,0,9,0,0,0,0,1,0,0,2
+Cookit Cutters,Cookit Cutters_P13,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Gary Gong,2,1,1,0,0,0,0,0,0,24.05,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Gary Gong,3,2,2,0,0,0,0,1,0,8.66,-7,0,1,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P02,O,++1,5,3,2,0,0,0,1,0,0,7.72,-1,0,5,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P06,O,++1,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,++1,2,1,1,0,0,0,0,0,0,18.65,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,++1,0,0,0,0,0,0,0,0,0,0.0,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,++1,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,++1,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Kaylee,4,2,0,0,0,0,2,0,0,27.56,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Kaylee,2,1,1,0,1,0,0,0,0,9.8,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Kaylee,11,6,5,0,0,0,1,0,0,34.98,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P12,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Kaylee,6,3,2,0,0,0,1,0,0,44.53,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Kaylee,2,1,0,0,0,0,1,0,0,27.16,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Kaylee,2,1,1,0,1,0,0,0,0,19.94,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Chris,1,1,1,0,0,0,0,0,0,12.02,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Chris,1,1,1,0,0,0,0,0,0,5.84,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Chris,7,4,3,0,0,0,1,0,0,37.41,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,Chris,5,3,2,0,0,0,1,0,0,15.98,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Chris,2,1,1,0,0,0,0,0,0,9.35,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Chris,9,6,5,1,0,0,1,0,0,132.01,-8,1,3,0,0,0,1,1,2,1,0
+Cookit Cutters,Cookit Cutters_P01,O,Sky,2,1,0,0,0,0,1,0,0,-8.36,0,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P04,O,Sky,2,1,0,0,0,0,1,0,0,16.48,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Sky,2,1,1,0,1,0,0,0,0,17.96,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-3,0,9,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,Sky,2,1,0,0,0,0,1,0,0,16.53,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Sky,1,1,1,0,0,0,0,0,0,3.32,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Mini,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Mini,8,4,3,0,0,0,1,0,0,30.23,-3,0,9,0,0,0,0,1,0,0,3
+Cookit Cutters,Cookit Cutters_P13,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,DJJ,7,4,3,0,0,0,1,0,0,43.59,-1,0,5,0,0,1,0,0,0,0,2
+Cookit Cutters,Cookit Cutters_P08,O,DJJ,3,2,2,0,0,0,0,0,0,18.75,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,DJJ,2,1,1,0,0,0,0,0,0,-14.25,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P15,O,DJJ,13,7,6,0,0,0,1,1,0,31.77,-6,0,3,0,0,1,0,0,0,0,2
+Cookit Cutters,Cookit Cutters_P18,O,DJJ,3,1,1,0,0,1,0,0,0,44.48,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Wenyu Zhu,7,5,3,0,0,0,2,1,0,61.5,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P13,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Wenyu Zhu,2,1,1,0,0,0,0,0,0,13.61,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,12.72,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Luo Wei,2,1,1,0,0,0,0,0,0,4.01,-6,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P20,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Lina,2,1,1,0,0,0,0,0,0,11.08,0,0,1,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P02,O,Lina,2,1,1,0,0,0,0,0,0,22.61,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Lina,2,1,1,0,0,0,0,0,0,12.96,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Lina,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,BGK,4,2,2,0,0,0,0,0,0,12.67,-5,1,1,1,1,0,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,BGK,2,1,1,0,0,0,0,0,0,1.19,-7,0,2,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P17,O,BGK,2,1,0,0,0,0,1,0,0,38.89,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,BGK,4,2,1,0,0,0,1,0,0,8.46,-7,0,1,0,0,0,0,1,0,1,0
+Cookit Cutters,Cookit Cutters_P17,O,TARA,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,TARA,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P04,O,Albert Kwek,1,1,1,0,0,0,0,0,0,3.32,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P05,D,Albert Kwek,4,2,0,0,0,0,2,0,0,47.3,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P06,O,Albert Kwek,8,5,4,0,1,0,1,1,0,-1.43,-1,1,4,0,1,0,0,0,0,2,1
+Disc Diva,Disc Diva_P08,D,Albert Kwek,8,4,4,0,0,0,0,0,0,13.26,1,1,5,0,0,0,1,1,0,0,2
+Disc Diva,Disc Diva_P09,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Albert Kwek,2,1,1,0,0,0,0,0,0,1.39,0,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P13,O,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Albert Kwek,1,1,1,0,0,0,0,0,0,2.82,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P16,O,Albert Kwek,5,3,2,0,0,0,1,0,0,-37.61,-3,0,1,0,0,1,0,0,0,0,2
+Disc Diva,Disc Diva_P18,D,Albert Kwek,8,5,3,0,0,0,2,0,0,32.76,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Albert Kwek,4,2,2,1,0,0,0,0,0,48.34,-7,1,1,1,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P23,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P02,O,Leo,2,1,1,1,0,0,0,0,0,16.82,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P05,D,Leo,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Leo,1,1,1,0,0,0,0,1,0,-3.91,0,1,2,0,0,0,1,1,0,0,1
+Disc Diva,Disc Diva_P09,D,Leo,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P10,O,Leo,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Leo,4,2,2,0,0,0,0,0,0,27.07,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P13,O,Leo,2,1,1,1,0,0,0,0,0,35.63,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Leo,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Leo,4,2,2,0,0,0,0,0,0,13.61,-3,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P20,O,Leo,2,1,0,0,0,0,1,0,0,25.88,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Leo,4,2,2,0,1,0,0,0,0,52.8,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Leo,4,2,2,0,0,1,0,0,0,36.52,-6,1,2,0,0,0,1,1,0,1,0
+Disc Diva,Disc Diva_P05,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Olivia ,1,0,0,0,0,1,0,0,0,16.43,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P08,D,Olivia ,4,2,2,0,1,0,0,0,0,39.19,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Olivia ,2,1,0,0,0,0,1,0,0,18.21,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Olivia ,2,1,1,0,0,0,0,0,0,16.87,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Olivia ,2,1,0,0,0,0,1,0,0,21.18,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Olivia ,2,1,1,0,0,0,0,0,0,1.09,-6,1,2,0,0,0,1,1,0,0,1
+Disc Diva,Disc Diva_P05,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P08,D,Taozi,2,1,0,0,0,0,1,1,0,11.43,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P11,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Taozi,1,0,0,0,0,1,0,0,0,12.72,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Taozi,2,1,1,0,0,0,0,0,0,19.35,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P19,O,Taozi,2,1,1,0,0,0,0,0,0,8.76,-4,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P21,O,Taozi,0,0,0,0,0,0,0,1,0,0.0,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Taozi,1,0,0,0,0,1,0,0,0,16.08,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P04,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Kaylee,1,1,1,0,0,0,0,0,0,7.42,-1,1,4,0,1,0,0,0,0,1,0
+Disc Diva,Disc Diva_P08,D,Kaylee,2,1,0,0,0,0,1,0,0,15.54,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Kaylee,2,1,1,0,0,0,0,0,0,17.27,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Kaylee,2,1,1,0,0,0,0,0,0,-0.59,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P16,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Kaylee,4,2,2,0,1,0,0,0,0,37.95,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Kaylee,3,2,2,0,0,0,0,0,0,16.67,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Kaylee,5,3,2,0,0,0,1,0,0,14.7,-6,0,9,0,0,1,0,0,0,1,1
+Disc Diva,Disc Diva_P23,D,Kaylee,2,1,0,0,0,0,1,0,0,32.36,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P04,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Luo Wei,3,1,1,0,0,1,0,0,0,54.08,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P10,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Luo Wei,2,1,0,0,0,0,1,0,0,10.74,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P13,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Luo Wei,2,1,1,0,0,0,0,0,0,20.48,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P05,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P09,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Shellz,2,1,0,0,0,0,1,0,0,16.63,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Shellz,2,1,1,0,0,0,0,0,0,-5.24,-3,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P19,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Shellz,2,1,1,0,0,0,0,0,0,-7.13,-6,0,9,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P04,O,Gary Gong,1,0,0,0,0,1,0,0,0,19.69,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Gary Gong,4,2,1,0,0,0,1,0,0,17.22,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P08,D,Gary Gong,6,4,3,0,0,0,1,0,0,6.14,1,1,5,0,0,0,1,1,0,0,2
+Disc Diva,Disc Diva_P10,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Gary Gong,2,2,1,0,0,0,1,1,0,36.76,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Gary Gong,2,1,1,0,0,0,0,0,0,4.9,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Gary Gong,5,3,3,1,0,0,0,0,0,28.45,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P05,D,Chris,3,2,2,0,0,0,0,0,0,4.5,0,0,2,0,0,0,0,1,0,1,0
+Disc Diva,Disc Diva_P07,D,Chris,2,1,0,0,0,0,1,0,0,46.96,0,1,2,0,0,0,1,1,1,0,0
+Disc Diva,Disc Diva_P08,D,Chris,10,6,5,0,0,1,1,2,0,122.27,1,1,5,0,0,0,1,1,1,1,0
+Disc Diva,Disc Diva_P10,O,Chris,1,1,1,0,0,0,0,0,0,6.78,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Chris,3,2,2,0,0,0,0,0,0,3.61,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Chris,4,2,2,0,0,0,0,0,0,-25.33,-3,0,1,0,0,1,0,0,0,0,2
+Disc Diva,Disc Diva_P19,O,Chris,1,1,1,0,0,0,0,0,0,2.87,-4,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P21,O,Chris,5,4,3,0,0,0,1,0,0,-15.69,-6,0,9,0,0,1,0,0,0,1,2
+Disc Diva,Disc Diva_P05,D,Wenyu Zhu,1,1,1,0,0,0,0,0,0,-2.87,0,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P07,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Wenyu Zhu,6,3,3,0,0,0,0,0,0,10.54,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P17,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,-6.43,-3,0,2,0,0,0,0,1,0,1,0
+Disc Diva,Disc Diva_P22,O,Wenyu Zhu,1,1,1,0,0,0,0,0,0,1.19,-7,1,1,1,1,0,0,0,0,1,0
+Disc Diva,Disc Diva_P09,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Gordon,1,1,1,0,0,0,0,0,0,11.73,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Gordon,2,1,1,0,0,0,0,0,0,6.33,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Gordon,3,2,2,0,0,0,0,0,0,19.94,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Gordon,4,2,0,0,0,0,2,0,0,74.67,-4,0,2,0,0,1,0,0,1,0,0
+Disc Diva,Disc Diva_P21,O,Gordon,13,9,6,0,0,0,3,0,0,99.7,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P02,O,BGK,1,0,0,0,0,1,0,0,0,6.23,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P04,O,BGK,2,1,1,0,1,0,0,0,0,41.07,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P07,D,BGK,3,2,2,1,0,0,0,1,0,18.16,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P13,O,BGK,3,2,2,0,1,0,0,0,0,29.24,-2,1,1,1,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P14,D,BGK,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,BGK,0,0,0,0,0,0,0,0,0,0.0,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,BGK,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,JF,10,5,4,1,0,0,1,0,0,57.3,-1,1,4,0,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P08,D,JF,6,3,3,1,0,0,0,0,0,84.02,1,1,5,0,0,0,1,1,1,1,0
+Disc Diva,Disc Diva_P11,O,JF,2,1,0,0,0,0,1,1,0,52.7,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,JF,2,1,0,0,0,0,1,0,0,3.02,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P17,O,JF,6,3,3,1,0,0,0,0,0,29.69,-4,1,1,1,1,0,0,0,0,0,2
+Disc Diva,Disc Diva_P19,O,JF,2,1,1,0,0,0,0,0,0,17.86,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,JF,8,4,1,0,0,0,3,2,0,88.57,-6,0,9,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P04,O,Vishnu,4,2,2,1,0,0,0,0,0,64.08,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Vishnu,5,3,3,0,0,0,0,0,0,52.35,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,Vishnu,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Vishnu,3,2,2,0,0,0,0,0,0,16.63,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Vishnu,3,1,1,0,0,1,0,0,0,20.93,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P04,O,++1,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,++1,2,1,1,0,0,0,0,0,0,13.85,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,++1,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P04,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P06,D,Olivia ,2,1,1,0,1,0,0,0,0,13.41,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P07,D,Olivia ,2,1,1,0,0,0,0,0,0,35.68,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,Olivia ,2,1,0,0,0,0,1,0,0,2.18,3,0,2,0,0,0,0,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P12,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P15,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,4,1,6,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,Olivia ,1,0,0,0,0,1,0,1,0,23.35,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,Olivia ,0,0,0,0,0,0,0,1,0,0.0,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,Olivia ,1,0,0,0,0,1,0,0,0,19.69,2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,++1,4,2,2,0,0,0,0,0,0,-1.78,0,0,1,0,0,1,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P04,D,++1,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P06,D,++1,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P07,D,++1,3,2,1,0,0,0,1,0,0,45.87,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,++1,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,++1,0,0,0,0,0,0,0,0,0,0.0,3,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,++1,0,0,0,0,0,0,0,0,0,0.0,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P15,D,++1,3,2,2,0,0,0,0,0,0,23.5,4,1,6,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,++1,2,1,0,0,0,0,1,0,0,30.43,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,++1,2,1,1,1,0,0,0,0,0,55.12,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,++1,3,2,1,0,0,0,1,0,0,15.83,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,++1,0,0,0,0,0,0,0,0,0,0.0,2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Gary Hu,3,2,1,0,0,0,1,0,0,14.1,0,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Gary Hu,1,1,1,0,0,0,0,0,0,7.82,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Gary Hu,6,4,4,1,0,0,0,0,0,19.99,-2,1,7,0,1,0,0,0,0,1,1
+Flat Ballers Association,Flat Ballers Association_P07,D,Gary Hu,2,1,1,0,0,1,0,0,0,24.44,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,Gary Hu,2,2,2,0,0,0,0,0,0,15.69,3,0,2,0,0,0,0,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P12,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,Gary Hu,6,3,2,0,0,0,1,0,0,65.81,3,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P16,D,Gary Hu,0,0,0,0,0,0,0,1,0,0.0,5,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Gary Hu,2,1,1,0,0,0,0,0,0,11.92,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,Gary Hu,3,2,0,0,0,0,2,0,0,34.74,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,Gary Hu,2,1,1,0,0,0,0,0,0,9.05,2,1,1,1,1,0,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P02,O,Avery Qi,4,2,2,0,0,0,0,0,0,14.5,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P06,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P07,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,Avery Qi,1,0,0,0,0,1,0,0,0,11.03,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P12,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Avery Qi,2,1,1,0,1,0,0,0,0,5.05,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,Avery Qi,3,1,1,0,1,1,0,0,0,39.58,3,1,5,0,0,0,1,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P16,D,Avery Qi,2,1,0,0,0,0,1,0,0,15.98,5,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P18,D,Avery Qi,2,1,0,0,0,0,1,0,0,18.11,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,Avery Qi,4,2,2,0,0,0,0,0,0,18.56,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P04,D,Gary Gong,6,3,3,0,0,0,0,0,0,14.7,-1,0,1,0,0,0,0,1,0,0,2
+Flat Ballers Association,Flat Ballers Association_P07,D,Gary Gong,2,1,1,0,0,0,0,0,0,10.39,0,1,3,0,0,0,1,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P09,D,Gary Gong,1,1,1,1,0,0,0,0,0,30.78,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,3,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Gary Gong,3,1,1,0,0,1,0,0,0,33.05,2,1,3,0,1,0,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P15,D,Gary Gong,2,1,0,0,0,0,1,0,0,25.68,4,1,6,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,Gary Gong,2,2,1,0,1,0,1,1,0,37.01,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,Gary Gong,3,2,2,0,0,0,0,0,0,9.1,2,1,1,1,1,0,0,0,0,1,0
+Flat Ballers Association,Flat Ballers Association_P03,O,BGK,2,1,1,0,0,0,0,0,0,8.96,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,BGK,11,7,5,0,0,0,2,1,0,38.2,-2,1,7,0,1,0,0,0,0,1,0
+Flat Ballers Association,Flat Ballers Association_P07,D,BGK,1,1,1,1,0,0,0,0,0,13.21,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,BGK,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,BGK,2,1,0,0,0,0,1,0,0,10.54,3,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P12,D,BGK,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,BGK,6,3,2,0,0,0,1,0,0,45.77,3,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P16,D,BGK,1,1,1,0,0,0,0,0,0,-0.15,5,0,2,0,0,0,0,1,0,1,0
+Flat Ballers Association,Flat Ballers Association_P18,D,BGK,2,2,2,0,0,0,0,2,0,16.87,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,BGK,1,1,1,0,0,0,0,1,0,13.76,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,BGK,1,1,1,0,0,0,0,0,0,14.99,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Albert Kwek,5,3,2,0,0,0,1,0,0,23.65,-1,0,2,0,0,1,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P04,D,Albert Kwek,8,4,3,0,0,0,1,0,0,4.4,-1,0,1,0,0,0,0,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P06,D,Albert Kwek,1,1,1,0,0,0,0,0,0,9.01,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,Albert Kwek,6,4,3,0,0,0,1,0,0,65.61,1,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P12,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,Albert Kwek,13,9,7,1,0,0,2,2,0,62.05,3,1,5,0,0,0,1,1,0,3,1
+Flat Ballers Association,Flat Ballers Association_P16,D,Albert Kwek,5,3,2,0,0,0,1,0,0,33.7,5,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P18,D,Albert Kwek,2,1,0,0,0,0,1,0,0,19.89,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,Albert Kwek,2,1,1,0,0,0,0,0,0,0.25,2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Kaylee,2,1,1,0,0,0,0,0,0,31.52,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Kaylee,4,2,1,0,0,0,1,0,0,60.02,-2,1,7,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,Kaylee,0,0,0,0,0,0,0,1,0,0.0,1,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P15,D,Kaylee,8,5,4,0,0,0,1,1,0,72.74,4,1,6,0,0,0,1,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P17,O,Kaylee,2,1,1,1,0,0,0,0,0,50.62,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Kaylee,1,0,0,0,0,1,0,0,0,10.19,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,Kaylee,2,1,1,0,0,0,0,0,0,6.43,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P23,O,Kaylee,4,2,2,0,1,0,0,0,0,29.19,2,1,1,1,1,0,0,0,0,1,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P04,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P06,D,Taozi,3,1,1,0,0,1,0,0,0,40.43,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,Taozi,1,0,0,0,0,1,0,0,0,30.78,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,Taozi,2,1,1,0,0,0,0,0,0,30.97,3,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Taozi,2,1,1,0,0,0,0,0,0,8.71,2,1,3,0,1,0,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P15,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,4,1,6,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P18,D,Taozi,2,1,0,0,0,0,1,0,0,18.31,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P06,D,SA,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,SA,5,3,3,0,0,1,0,0,0,16.33,1,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,SA,3,2,2,1,0,0,0,0,0,30.13,2,1,3,0,1,0,0,0,0,1,0
+Flat Ballers Association,Flat Ballers Association_P14,D,SA,2,1,1,0,0,0,0,0,0,13.71,3,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P16,D,SA,2,1,1,0,0,0,0,0,0,1.34,5,0,2,0,0,0,0,1,0,1,0
+Flat Ballers Association,Flat Ballers Association_P18,D,SA,1,1,1,0,0,0,0,0,0,7.72,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,SA,0,0,0,0,0,0,0,0,0,0.0,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,SA,2,1,1,0,0,0,0,0,0,4.65,3,0,1,0,0,1,0,0,0,1,0
+Flat Ballers Association,Flat Ballers Association_P23,O,SA,2,1,1,1,0,0,0,0,0,48.59,2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Sky,2,1,0,0,0,0,1,0,0,14.2,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P04,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P07,D,Sky,2,1,0,0,0,0,1,0,0,6.38,0,1,3,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P09,D,Sky,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P10,D,Sky,0,0,0,0,0,0,0,0,0,0.0,3,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P16,D,Sky,0,0,0,0,0,0,0,0,0,0.0,5,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,Sky,2,1,0,0,0,0,1,0,0,22.51,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,Sky,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Lina,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Lina,2,1,1,0,0,0,0,0,0,0.15,-2,1,7,0,1,0,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P08,D,Lina,0,0,0,0,0,0,0,0,0,0.0,1,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P12,D,Lina,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,Lina,0,0,0,0,0,0,0,0,0,0.0,3,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Lina,0,0,0,0,0,0,0,0,0,0.0,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,Lina,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Wenyu Zhu,2,1,1,0,0,0,0,0,0,-1.73,0,0,1,0,0,1,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P04,D,Wenyu Zhu,1,1,1,0,0,0,0,0,0,-4.65,-1,0,1,0,0,0,0,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P06,D,Wenyu Zhu,2,1,1,1,0,0,0,0,0,35.23,-1,1,1,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,Wenyu Zhu,3,2,1,1,0,0,1,0,0,24.34,1,1,5,0,0,0,1,1,0,1,0
+Flat Ballers Association,Flat Ballers Association_P15,D,Wenyu Zhu,2,2,2,1,0,0,0,0,0,23.7,4,1,6,0,0,0,1,1,0,1,0
+Flat Ballers Association,Flat Ballers Association_P18,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P01,O,Mini,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Mini,1,0,0,0,0,1,0,0,0,13.71,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Mini,2,1,1,0,0,0,0,0,0,13.71,-2,1,7,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,Mini,0,0,0,0,0,0,0,0,0,0.0,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P12,D,Mini,0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P16,D,Mini,2,1,1,0,0,0,0,0,0,15.14,5,0,2,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P18,D,Mini,0,0,0,0,0,0,0,0,0,0.0,5,0,3,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Leo,5,3,2,0,0,1,1,1,0,75.36,-2,1,7,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,Leo,4,2,1,0,0,0,1,0,0,40.08,1,1,5,0,0,0,1,1,0,0,1
+Flat Ballers Association,Flat Ballers Association_P11,O,Leo,4,3,1,0,1,0,2,1,0,75.9,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Leo,8,5,4,1,0,0,1,0,0,72.98,2,1,3,0,1,0,0,0,0,0,1
+Flat Ballers Association,Flat Ballers Association_P15,D,Leo,8,4,1,0,0,1,3,1,0,113.66,4,1,6,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Leo,1,1,1,0,1,0,0,0,0,44.93,4,1,2,0,1,0,0,0,1,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Gordon,5,3,3,0,1,0,0,0,0,26.27,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P11,O,Gordon,2,1,1,0,0,0,0,0,0,17.71,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P13,O,Gordon,7,4,3,0,0,0,1,0,0,60.17,2,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,Gordon,1,1,1,0,0,0,0,0,0,17.27,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P19,O,Gordon,3,2,1,0,0,0,1,0,0,41.86,4,1,2,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P22,O,Gordon,6,3,2,0,0,0,1,0,0,62.64,3,0,1,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P05,O,Luo Wei,4,2,0,0,0,0,2,0,0,25.48,-2,1,7,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P08,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,3,1,5,0,0,0,1,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P20,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,5,0,1,0,0,0,0,1,0,0,0
+Flat Ballers Association,Flat Ballers Association_P02,O,Ethan,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P03,O,Ethan,4,2,2,1,0,0,0,0,0,46.12,-2,1,1,1,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P17,O,Ethan,0,0,0,0,0,0,0,0,0,0.0,4,1,3,0,1,0,0,0,0,0,0
+Flat Ballers Association,Flat Ballers Association_P21,O,CZD,2,2,1,0,0,0,1,0,0,-1.09,4,0,4,0,0,1,0,0,0,1,0
+Mild Threat,Mild Threat_P01,D,SA,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,SA,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P03,O,SA,8,4,3,0,0,0,1,0,0,6.21,-2,0,2,0,0,1,0,0,0,1,0
+Mild Threat,Mild Threat_P05,D,SA,2,1,1,0,0,0,0,0,0,20.12,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P06,D,SA,1,1,1,1,0,0,0,1,0,40.8,-1,1,1,0,0,0,1,1,1,0,0
+Mild Threat,Mild Threat_P08,O,SA,2,1,1,0,0,0,0,0,0,0.87,-1,0,2,0,0,1,0,0,0,1,0
+Mild Threat,Mild Threat_P10,D,SA,2,2,2,1,0,0,0,1,0,14.21,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P12,O,SA,2,1,1,0,0,1,0,0,0,27.51,-1,1,2,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P14,D,SA,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,SA,3,2,2,0,0,0,0,0,0,11.87,2,1,3,0,1,0,0,0,0,1,0
+Mild Threat,Mild Threat_P16,D,SA,3,3,2,1,0,0,1,0,0,21.7,3,1,5,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P18,D,SA,3,2,1,0,0,0,1,1,0,18.8,5,0,4,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P20,O,SA,2,1,1,0,0,0,0,0,0,9.48,3,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P21,O,SA,1,1,1,0,0,0,0,0,0,-0.05,2,0,2,0,0,1,0,0,0,1,0
+Mild Threat,Mild Threat_P22,O,SA,2,1,1,0,0,0,0,0,0,8.97,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P24,O,SA,2,1,1,0,0,0,0,0,0,-3.46,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P01,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,Avery Qi,2,1,1,0,0,0,0,0,0,12.18,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P03,O,Avery Qi,2,1,1,0,0,0,0,0,0,8.56,-2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P04,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P05,D,Avery Qi,3,1,1,0,0,1,0,0,0,0.61,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P06,D,Avery Qi,1,0,0,0,0,1,0,0,0,40.8,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Avery Qi,2,1,1,0,0,0,0,0,0,15.18,-2,1,3,0,1,0,0,0,0,1,0
+Mild Threat,Mild Threat_P11,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P12,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-1,1,2,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Avery Qi,2,1,0,0,0,0,1,0,0,9.48,0,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,Avery Qi,4,2,2,0,0,0,0,0,0,4.74,2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P17,D,Avery Qi,2,1,1,0,0,0,0,0,0,10.09,4,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P19,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P20,O,Avery Qi,6,3,2,0,0,0,1,0,0,14.31,3,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P22,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Avery Qi,2,1,1,0,0,0,0,0,0,8.66,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P01,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P03,O,Gary Gong,2,1,1,0,0,0,0,0,0,1.88,-2,0,2,0,0,1,0,0,0,0,1
+Mild Threat,Mild Threat_P06,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P07,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P10,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P12,O,Gary Gong,2,1,1,1,0,0,0,0,0,12.79,-1,1,2,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P14,D,Gary Gong,1,1,1,1,0,0,0,1,0,29.39,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,Gary Gong,3,2,2,0,0,0,0,0,0,17.17,2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P17,D,Gary Gong,8,4,2,0,0,1,2,1,0,69.64,4,1,3,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P19,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P20,O,Gary Gong,4,2,2,0,0,0,0,0,0,3.06,3,0,2,0,0,1,0,0,0,0,2
+Mild Threat,Mild Threat_P22,O,Gary Gong,4,2,2,1,0,0,0,0,0,33.93,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Gary Gong,5,4,4,0,0,0,0,1,0,42.44,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P24,O,Gary Gong,4,2,2,0,0,0,0,0,0,2.7,1,1,1,1,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P01,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P03,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P06,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P07,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P08,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P10,D,Olivia ,0,0,0,0,0,0,0,1,0,0.0,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P12,O,Olivia ,2,1,1,0,0,0,0,0,0,24.15,-1,1,2,0,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P14,D,Olivia ,1,0,0,0,0,1,0,0,0,29.39,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,Olivia ,1,0,0,0,0,1,0,0,0,40.14,2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P17,D,Olivia ,2,1,1,0,0,0,0,0,0,18.9,4,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P19,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P20,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,3,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P22,O,Olivia ,1,0,0,0,0,1,0,0,0,13.96,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P24,O,Olivia ,4,2,2,0,1,0,0,0,0,34.69,1,1,1,1,1,0,0,0,0,1,0
+Mild Threat,Mild Threat_P04,O,Albert Kwek,2,1,1,0,1,0,0,0,0,45.64,-3,1,1,1,1,0,0,0,1,0,0
+Mild Threat,Mild Threat_P05,D,Albert Kwek,2,2,2,1,0,0,0,1,0,-1.73,-2,1,2,0,0,0,1,1,0,1,0
+Mild Threat,Mild Threat_P07,D,Albert Kwek,2,1,0,0,0,0,1,0,0,14.11,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Albert Kwek,8,5,4,0,1,0,1,0,0,54.71,-2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P10,D,Albert Kwek,5,2,1,0,0,1,1,0,0,35.0,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P12,O,Albert Kwek,5,3,2,0,1,0,1,0,0,51.04,-1,1,2,0,1,0,0,0,0,1,0
+Mild Threat,Mild Threat_P14,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P16,D,Albert Kwek,7,4,4,0,0,1,0,0,0,46.97,3,1,5,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P18,D,Albert Kwek,9,6,4,0,0,0,2,0,0,97.35,5,0,4,0,0,0,0,1,0,1,0
+Mild Threat,Mild Threat_P20,O,Albert Kwek,4,3,3,0,0,0,0,0,0,16.3,3,0,2,0,0,1,0,0,0,1,0
+Mild Threat,Mild Threat_P22,O,Albert Kwek,3,2,2,0,0,0,0,0,0,17.68,1,1,1,1,1,0,0,0,0,1,0
+Mild Threat,Mild Threat_P24,O,Albert Kwek,11,6,6,1,0,0,0,0,0,56.7,1,1,1,1,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P03,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P06,D,Lina,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P07,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P11,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,Lina,2,1,1,0,0,0,0,0,0,14.82,2,1,3,0,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P17,D,Lina,0,0,0,0,0,0,0,0,0,0.0,4,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P19,O,Lina,0,0,0,0,0,0,0,0,0,0.0,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P21,O,Lina,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Lina,0,0,0,0,0,0,0,0,0,0.0,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P01,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P06,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P07,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P10,D,Shellz,2,1,1,0,0,0,0,0,0,8.76,-1,1,2,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P12,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,1,2,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P14,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P16,D,Shellz,6,3,2,0,0,0,1,0,0,27.87,3,1,5,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P18,D,Shellz,2,1,1,0,0,0,0,0,0,2.19,5,0,4,0,0,0,0,1,0,0,1
+Mild Threat,Mild Threat_P21,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P03,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P04,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P05,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P08,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P10,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P13,D,Luo Wei,4,2,2,1,0,0,0,0,0,39.74,0,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P16,D,Luo Wei,2,1,0,0,0,0,1,0,0,32.76,3,1,5,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P18,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,5,0,4,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P21,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P24,O,Luo Wei,1,0,0,0,0,1,0,0,0,15.84,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P04,O,Wenyu Zhu,2,1,1,1,0,0,0,0,0,55.78,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P05,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,20.89,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P07,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Wenyu Zhu,2,1,1,1,0,0,0,0,0,35.76,-2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P11,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Wenyu Zhu,4,2,1,0,0,0,1,0,0,19.66,0,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P15,O,Wenyu Zhu,2,1,0,0,0,0,1,0,0,33.47,2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P17,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,6.11,4,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P19,O,Wenyu Zhu,1,1,1,0,0,0,0,0,0,-8.56,4,0,2,0,0,1,0,0,0,0,1
+Mild Threat,Mild Threat_P21,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P01,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,Gary Hu,3,2,1,0,0,0,1,0,0,24.86,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P04,O,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P05,D,Gary Hu,4,2,1,0,0,0,1,0,0,35.05,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P06,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P08,O,Gary Hu,1,1,1,0,0,0,0,0,0,9.27,-1,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P09,O,Gary Hu,5,3,2,0,0,0,1,0,0,34.79,-2,1,3,0,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P11,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Gary Hu,4,3,3,0,1,0,0,0,0,29.29,0,1,3,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P14,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P04,O,TARA,1,0,0,0,0,1,0,0,0,15.49,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P05,D,TARA,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P08,O,TARA,2,1,1,0,0,0,0,0,0,9.17,-1,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P10,D,TARA,0,0,0,0,0,0,0,0,0,0.0,-1,1,2,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P12,O,TARA,2,1,1,0,0,0,0,0,0,31.02,-1,1,2,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P16,D,TARA,0,0,0,0,0,0,0,0,0,0.0,3,1,5,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P18,D,TARA,2,1,1,0,0,0,0,0,0,34.74,5,0,4,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P20,O,TARA,0,0,0,0,0,0,0,0,0,0.0,3,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P22,O,TARA,2,1,1,0,0,0,0,0,0,13.5,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P24,O,TARA,0,0,0,0,0,0,0,0,0,0.0,1,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P03,O,Wayne Wang,6,4,3,0,0,0,1,0,0,10.29,-2,0,2,0,0,1,0,0,0,1,2
+Mild Threat,Mild Threat_P07,D,Wayne Wang,2,2,1,0,0,0,1,0,0,7.9,0,0,2,0,0,0,0,1,0,1,0
+Mild Threat,Mild Threat_P11,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Wayne Wang,1,1,1,0,0,0,0,0,0,6.21,0,1,3,0,0,0,1,1,0,1,0
+Mild Threat,Mild Threat_P16,D,Wayne Wang,2,1,1,0,0,0,0,0,0,10.7,3,1,5,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P17,D,Wayne Wang,3,2,2,0,1,0,0,0,0,5.2,4,1,3,0,0,0,1,1,0,0,1
+Mild Threat,Mild Threat_P19,O,Wayne Wang,2,1,0,0,0,0,1,0,0,0.56,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P21,O,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Wayne Wang,4,2,2,0,0,0,0,0,0,28.73,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P04,O,Gordon,1,1,1,0,0,0,0,0,0,5.35,-3,1,1,1,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P08,O,Gordon,3,2,0,0,0,0,2,0,0,27.76,-1,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P11,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P15,O,Gordon,7,4,3,1,0,0,1,0,0,81.41,2,1,3,0,1,0,0,0,1,0,0
+Mild Threat,Mild Threat_P17,D,Gordon,3,2,2,1,0,0,0,0,0,31.18,4,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P19,O,Gordon,1,1,0,0,0,0,1,0,0,24.81,4,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P21,O,Gordon,3,2,0,0,0,0,2,1,0,14.62,2,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P23,D,Gordon,10,5,2,0,0,0,3,0,0,93.28,2,0,3,0,0,0,0,1,0,0,0
+Mild Threat,Mild Threat_P09,O,Kaylee,1,0,0,0,0,1,0,0,0,13.35,-2,1,3,0,1,0,0,0,0,0,0
+Mild Threat,Mild Threat_P11,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P13,D,Kaylee,5,2,2,0,0,1,0,0,0,47.12,0,1,3,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P16,D,Kaylee,4,2,1,0,0,0,1,0,0,32.86,3,1,5,0,0,0,1,1,0,0,0
+Mild Threat,Mild Threat_P20,O,Kaylee,4,2,1,0,0,0,1,0,0,46.36,3,0,2,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P22,O,Kaylee,4,2,2,0,1,0,0,0,0,28.22,1,1,1,1,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P24,O,Kaylee,6,3,3,0,0,0,0,0,0,48.09,1,1,1,1,1,0,0,0,0,0,1
+Mild Threat,Mild Threat_P01,D,CZD,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Mild Threat,Mild Threat_P02,O,CZD,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Mild Threat,Mild Threat_P08,O,CZD,2,1,1,0,0,0,0,0,0,-5.76,-1,0,2,0,0,1,0,0,0,0,1
+Mild Threat,Mild Threat_P18,D,CZD,4,2,1,0,0,0,1,0,0,26.64,5,0,4,0,0,0,0,1,0,0,1
+Mild Threat,Mild Threat_P18,D,Sky,0,0,0,0,0,0,0,0,0,0.0,5,0,4,0,0,0,0,1,0,0,0
+Star,Star_P01,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P03,O,Gary Gong,5,3,3,0,0,0,0,0,0,21.03,-2,1,3,0,1,0,0,0,0,0,0
+Star,Star_P04,D,Gary Gong,3,2,1,1,0,0,1,1,0,22.17,-1,1,3,0,0,0,1,1,1,0,1
+Star,Star_P06,D,Gary Gong,2,1,1,1,0,0,0,0,0,39.49,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P08,D,Gary Gong,3,3,2,0,0,0,1,2,0,23.85,3,0,4,0,0,0,0,1,0,1,0
+Star,Star_P11,D,Gary Gong,13,7,3,0,0,0,4,0,0,70.16,4,0,9,0,0,0,0,1,0,1,1
+Star,Star_P13,O,Gary Gong,2,1,0,0,0,0,1,0,0,56.16,2,1,2,0,1,0,0,0,1,0,0
+Star,Star_P14,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P16,O,Gary Gong,1,0,0,0,0,1,0,0,0,12.67,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P18,D,Gary Gong,2,1,1,0,0,0,0,0,0,7.03,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P19,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,0,0,1,0,0,0
+Star,Star_P20,O,Gary Gong,1,0,0,0,0,1,0,0,0,22.37,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P01,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P02,O,Kaylee,1,1,1,0,0,0,0,1,0,9.4,-1,0,2,0,0,1,0,0,0,0,0
+Star,Star_P04,D,Kaylee,2,1,1,0,0,0,0,0,0,1.93,-1,1,3,0,0,0,1,1,0,0,0
+Star,Star_P06,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P08,D,Kaylee,2,1,1,0,0,0,0,0,0,14.7,3,0,4,0,0,0,0,1,0,0,0
+Star,Star_P11,D,Kaylee,8,4,2,0,0,0,2,0,0,69.72,4,0,9,0,0,0,0,1,0,0,1
+Star,Star_P13,O,Kaylee,1,1,1,0,0,0,0,0,0,10.54,2,1,2,0,1,0,0,0,0,0,0
+Star,Star_P15,O,Kaylee,5,3,2,0,0,0,1,0,0,17.76,2,0,3,0,0,1,0,0,0,1,1
+Star,Star_P17,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P18,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P01,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P03,O,Olivia ,4,2,2,0,0,0,0,0,0,1.14,-2,1,3,0,1,0,0,0,0,0,1
+Star,Star_P05,D,Olivia ,5,2,2,0,0,1,0,0,0,19.3,0,1,3,0,0,0,1,1,0,0,2
+Star,Star_P07,D,Olivia ,4,2,2,0,1,0,0,0,0,32.71,2,1,1,0,0,0,1,1,0,0,1
+Star,Star_P09,O,Olivia ,1,0,0,0,0,1,0,0,0,18.11,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,Olivia ,1,1,1,0,0,0,0,0,0,5.29,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P14,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P16,O,Olivia ,2,1,1,1,0,0,0,0,0,30.33,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P18,D,Olivia ,2,1,1,1,0,0,0,0,0,34.74,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,Olivia ,2,1,1,0,1,0,0,0,0,22.17,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P02,O,SA,2,1,0,0,0,0,1,0,0,4.4,-1,0,2,0,0,1,0,0,0,0,0
+Star,Star_P04,D,SA,6,3,3,0,0,0,0,0,0,7.97,-1,1,3,0,0,0,1,1,0,1,1
+Star,Star_P06,D,SA,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P08,D,SA,5,3,2,0,0,0,1,0,0,56.41,3,0,4,0,0,0,0,1,1,1,0
+Star,Star_P10,D,SA,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P11,D,SA,9,7,5,0,0,0,2,1,0,36.67,4,0,9,0,0,0,0,1,0,3,0
+Star,Star_P13,O,SA,0,0,0,0,0,0,0,0,0,0.0,2,1,2,0,1,0,0,0,0,0,0
+Star,Star_P15,O,SA,4,2,2,0,0,0,0,0,0,40.13,2,0,3,0,0,1,0,0,0,0,0
+Star,Star_P17,D,SA,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P18,D,SA,0,0,0,0,0,0,0,0,0,0.0,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,SA,2,1,1,0,0,0,0,0,0,7.57,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P01,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P02,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Star,Star_P04,D,Wenyu Zhu,3,2,1,0,0,0,1,0,0,-11.48,-1,1,3,0,0,0,1,1,0,0,1
+Star,Star_P06,D,Wenyu Zhu,1,1,1,0,0,0,0,0,0,12.37,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P07,D,Wenyu Zhu,2,1,1,1,0,0,0,0,0,28.75,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P09,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,Wenyu Zhu,1,0,0,0,0,1,0,0,0,13.9,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,Wenyu Zhu,2,1,0,0,0,0,1,0,0,14.89,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P14,O,Wenyu Zhu,3,2,2,0,0,0,0,0,0,-7.52,3,0,1,0,0,1,0,0,0,1,1
+Star,Star_P16,O,Wenyu Zhu,4,2,2,0,1,0,0,0,0,35.48,1,1,1,1,1,0,0,0,0,0,1
+Star,Star_P19,D,Wenyu Zhu,4,2,1,0,0,0,1,0,0,21.67,4,0,4,0,0,0,0,1,0,0,0
+Star,Star_P01,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P03,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-2,1,3,0,1,0,0,0,0,0,0
+Star,Star_P05,D,Lina,2,1,1,1,0,0,0,1,0,21.43,0,1,3,0,0,0,1,1,0,0,0
+Star,Star_P07,D,Lina,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P09,O,Lina,0,0,0,0,0,0,0,0,0,0.0,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,Lina,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,Lina,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P14,O,Lina,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P16,O,Lina,0,0,0,0,0,0,0,0,0,0.0,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P18,D,Lina,0,0,0,0,0,0,0,0,0,0.0,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,Lina,0,0,0,0,0,0,0,0,0,0.0,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P05,D,DJJ,3,2,2,0,0,0,0,0,0,18.95,0,1,3,0,0,0,1,1,0,1,0
+Star,Star_P06,D,DJJ,2,1,1,0,1,0,0,0,0,29.29,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P07,D,DJJ,7,3,3,0,0,1,0,0,0,30.58,2,1,1,0,0,0,1,1,0,0,1
+Star,Star_P09,O,DJJ,2,1,1,1,0,0,0,0,0,49.73,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,DJJ,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P13,O,DJJ,3,1,1,0,0,1,0,0,0,2.52,2,1,2,0,1,0,0,0,0,0,1
+Star,Star_P14,O,DJJ,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P15,O,DJJ,9,5,4,0,0,0,1,1,0,59.28,2,0,3,0,0,1,0,0,0,0,0
+Star,Star_P16,O,DJJ,0,0,0,0,0,0,0,0,0,0.0,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P17,D,DJJ,1,1,1,1,0,0,0,0,0,40.77,2,1,1,0,0,0,1,1,1,0,0
+Star,Star_P01,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P03,O,Albert Kwek,13,7,6,0,1,0,1,0,0,6.09,-2,1,3,0,1,0,0,0,0,0,1
+Star,Star_P05,D,Albert Kwek,5,3,2,0,1,0,1,0,0,15.88,0,1,3,0,0,0,1,1,0,0,1
+Star,Star_P07,D,Albert Kwek,2,1,1,0,0,0,0,0,0,-0.89,2,1,1,0,0,0,1,1,0,1,0
+Star,Star_P09,O,Albert Kwek,2,1,1,0,0,0,0,0,0,6.14,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P12,O,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P14,O,Albert Kwek,4,2,1,0,0,0,1,0,0,26.08,3,0,1,0,0,1,0,0,0,1,0
+Star,Star_P16,O,Albert Kwek,3,2,2,0,0,0,0,0,0,17.81,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P18,D,Albert Kwek,3,2,2,0,1,0,0,0,0,18.75,3,1,1,0,0,0,1,1,0,1,0
+Star,Star_P19,D,Albert Kwek,9,5,2,0,0,0,3,0,0,62.94,4,0,4,0,0,0,0,1,0,1,0
+Star,Star_P02,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Star,Star_P04,D,Luo Wei,3,2,2,0,0,0,0,1,0,-0.89,-1,1,3,0,0,0,1,1,0,0,1
+Star,Star_P07,D,Luo Wei,2,1,1,0,0,0,0,0,0,12.32,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P09,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P13,O,Luo Wei,2,1,1,0,0,0,0,0,0,-1.83,2,1,2,0,1,0,0,0,0,0,1
+Star,Star_P15,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,3,0,0,1,0,0,0,0,0
+Star,Star_P19,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,0,0,1,0,0,0
+Star,Star_P02,O,Gordon,5,3,2,0,0,0,1,0,0,0.15,-1,0,2,0,0,1,0,0,0,0,1
+Star,Star_P07,D,Gordon,3,2,2,0,0,0,0,0,0,20.04,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P09,O,Gordon,3,2,2,0,1,0,0,0,0,37.75,2,1,1,1,1,0,0,0,0,0,0
+Star,Star_P10,D,Gordon,2,2,1,1,0,0,1,0,0,44.73,3,1,2,0,0,0,1,1,0,0,0
+Star,Star_P12,O,Gordon,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P13,O,Gordon,5,3,3,1,0,0,0,0,0,38.94,2,1,2,0,1,0,0,0,0,0,0
+Star,Star_P15,O,Gordon,5,3,2,0,0,0,1,0,0,65.26,2,0,3,0,0,1,0,0,0,0,0
+Star,Star_P17,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,Gordon,0,0,0,0,0,0,0,0,0,0.0,3,1,1,1,1,0,0,0,0,0,0
+Star,Star_P04,D,Leo,3,1,1,0,1,1,0,1,0,40.08,-1,1,3,0,0,0,1,1,0,0,1
+Star,Star_P08,D,Leo,4,2,0,0,0,0,2,0,0,38.59,3,0,4,0,0,0,0,1,0,0,0
+Star,Star_P11,D,Leo,4,2,1,0,0,0,1,0,0,24.44,4,0,9,0,0,0,0,1,0,1,0
+Star,Star_P15,O,Leo,6,3,3,0,0,0,0,0,0,15.29,2,0,3,0,0,1,0,0,0,0,3
+Star,Star_P17,D,Leo,1,0,0,0,0,1,0,0,0,40.77,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P18,D,Leo,1,0,0,0,0,1,0,0,0,23.01,3,1,1,0,0,0,1,1,0,0,0
+Star,Star_P20,O,Leo,3,2,2,1,0,0,0,0,0,30.63,3,1,1,1,1,0,0,0,0,0,1
+Star,Star_P03,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-2,1,3,0,1,0,0,0,0,0,0
+Star,Star_P05,D,Mini,0,0,0,0,0,0,0,0,0,0.0,0,1,3,0,0,0,1,1,0,0,0
+Star,Star_P08,D,Mini,0,0,0,0,0,0,0,0,0,0.0,3,0,4,0,0,0,0,1,0,0,0
+Star,Star_P11,D,Mini,0,0,0,0,0,0,0,0,0,0.0,4,0,9,0,0,0,0,1,0,0,0
+Star,Star_P15,O,Mini,2,1,1,0,0,0,0,0,0,12.32,2,0,3,0,0,1,0,0,0,0,1
+Star,Star_P17,D,Mini,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P19,D,Mini,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,0,0,1,0,0,0
+Star,Star_P02,O,Sky,2,1,1,0,0,0,0,0,0,-0.25,-1,0,2,0,0,1,0,0,0,0,1
+Star,Star_P04,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-1,1,3,0,0,0,1,1,0,0,0
+Star,Star_P06,D,Sky,1,0,0,0,0,1,0,0,0,22.56,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P11,D,Sky,3,2,2,0,0,0,0,0,0,15.49,4,0,9,0,0,0,0,1,0,0,0
+Star,Star_P14,O,Sky,0,0,0,0,0,0,0,0,0,0.0,3,0,1,0,0,1,0,0,0,0,0
+Star,Star_P16,O,Sky,0,0,0,0,0,0,0,0,0,0.0,1,1,1,1,1,0,0,0,0,0,0
+Star,Star_P06,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,1,1,1,0,0,0,1,1,0,0,0
+Star,Star_P08,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,3,0,4,0,0,0,0,1,0,0,0
+Star,Star_P13,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,1,2,0,1,0,0,0,0,0,0
+Star,Star_P17,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,1,1,0,0,0,1,1,0,0,0
+Star,Star_P19,D,Shellz,3,3,3,0,0,0,0,0,0,6.98,4,0,4,0,0,0,0,1,0,0,1
+Star,Star_P01,D,BGK,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0
+Star,Star_P03,O,BGK,13,7,7,1,0,0,0,0,0,74.12,-2,1,3,0,1,0,0,0,0,0,1
+Star,Star_P05,D,BGK,9,5,4,0,0,0,1,0,0,86.15,0,1,3,0,0,0,1,1,0,0,0
+Star,Star_P08,D,BGK,4,2,2,0,0,0,0,0,0,18.21,3,0,4,0,0,0,0,1,0,1,0
+Star,Star_P11,D,BGK,10,6,6,0,0,0,0,1,0,57.74,4,0,9,0,0,0,0,1,0,1,0
+Star,Star_P02,O,Ethan,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Star,Star_P03,O,Ethan,5,2,1,0,0,1,1,0,0,56.85,-2,1,3,0,1,0,0,0,0,0,1
+Star,Star_P05,D,Ethan,0,0,0,0,0,0,0,0,0,0.0,0,1,3,0,0,0,1,1,0,0,0
+Star,Star_P19,D,CZD,0,0,0,0,0,0,0,0,0,0.0,4,0,4,0,0,0,0,1,0,0,0

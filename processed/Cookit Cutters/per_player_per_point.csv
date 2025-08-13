@@ -1,0 +1,141 @@
+game_id,point_uid,team_line,player,touches,throws,completions,assists,secondary_assists,goals,turnovers,blocks,pulls,yards_gain_m,score_diff_start,point_result,num_possessions,clean_hold,hold,broken,break_scored,break_chance,hucks,swings,dumps
+Cookit Cutters,Cookit Cutters_P03,O,Leo,1,1,1,0,0,0,0,0,0,0.25,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Leo,3,1,1,0,0,1,0,0,0,42.06,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Leo,1,0,0,0,0,1,0,0,0,28.9,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Leo,3,1,0,0,0,1,1,0,0,35.87,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Leo,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Leo,3,1,1,0,0,1,0,0,0,29.09,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Leo,5,3,2,0,0,0,1,1,0,59.38,-6,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P18,O,Leo,1,1,1,1,0,0,0,1,0,26.32,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,JF,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,JF,18,9,7,0,0,0,2,0,0,125.43,-1,0,5,0,0,1,0,0,1,1,1
+Cookit Cutters,Cookit Cutters_P03,O,JF,3,2,2,0,0,0,0,1,0,18.21,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,JF,6,3,3,1,0,0,0,0,0,65.86,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,JF,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,JF,2,2,2,1,0,0,0,0,0,21.03,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,JF,19,12,8,0,0,0,4,3,0,141.51,-3,0,9,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,JF,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,JF,9,6,4,1,0,0,2,1,0,85.95,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,JF,1,1,1,0,0,0,0,0,0,-2.18,-7,0,2,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P19,D,JF,4,2,1,0,0,0,1,0,0,45.27,-8,1,3,0,0,0,1,1,0,1,0
+Cookit Cutters,Cookit Cutters_P01,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Avery Qi,2,1,1,0,0,0,0,0,0,3.66,-2,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P05,O,Avery Qi,4,2,1,0,0,0,1,0,0,22.17,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Avery Qi,8,4,3,0,0,0,1,0,0,47.55,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P13,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Avery Qi,6,3,3,0,0,0,0,0,0,9.5,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,Avery Qi,2,1,1,0,0,0,0,0,0,16.92,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Avery Qi,1,1,1,0,0,0,0,0,0,6.58,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Olivia ,2,1,0,0,0,0,1,0,0,8.21,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Olivia ,2,1,1,0,0,0,0,0,0,9.3,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Olivia ,0,0,0,0,0,0,0,1,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Albert Kwek,1,1,1,0,0,0,0,0,0,10.39,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Albert Kwek,11,7,6,0,0,0,1,0,0,-0.25,-1,0,5,0,0,1,0,0,0,2,1
+Cookit Cutters,Cookit Cutters_P04,O,Albert Kwek,1,1,1,0,0,0,0,0,0,2.72,-3,0,1,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P05,O,Albert Kwek,3,2,2,0,0,0,0,0,0,11.18,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Albert Kwek,4,2,2,1,0,0,0,0,0,50.02,-5,1,1,1,1,0,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P11,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Albert Kwek,10,6,4,0,1,0,2,0,0,85.35,-5,1,5,0,1,0,0,0,0,1,1
+Cookit Cutters,Cookit Cutters_P15,O,Albert Kwek,9,5,5,0,0,0,0,0,0,-0.49,-6,0,3,0,0,1,0,0,0,2,2
+Cookit Cutters,Cookit Cutters_P17,O,Albert Kwek,2,1,1,0,0,0,0,0,0,10.54,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Albert Kwek,3,1,1,0,0,1,0,0,0,44.48,-8,1,3,0,0,0,1,1,0,0,1
+Cookit Cutters,Cookit Cutters_P01,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Gary Gong,2,1,1,0,0,0,0,0,0,15.34,-2,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P04,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Gary Gong,6,3,3,0,0,0,0,0,0,33.6,-3,0,9,0,0,0,0,1,0,0,2
+Cookit Cutters,Cookit Cutters_P13,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Gary Gong,2,1,1,0,0,0,0,0,0,24.05,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Gary Gong,3,2,2,0,0,0,0,1,0,8.66,-7,0,1,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P02,O,++1,5,3,2,0,0,0,1,0,0,7.72,-1,0,5,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P06,O,++1,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,++1,2,1,1,0,0,0,0,0,0,18.65,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,++1,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,++1,0,0,0,0,0,0,0,0,0,0.0,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,++1,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,++1,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Kaylee,4,2,0,0,0,0,2,0,0,27.56,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Kaylee,2,1,1,0,1,0,0,0,0,9.8,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Kaylee,11,6,5,0,0,0,1,0,0,34.98,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P12,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Kaylee,6,3,2,0,0,0,1,0,0,44.53,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Kaylee,2,1,0,0,0,0,1,0,0,27.16,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Kaylee,2,1,1,0,1,0,0,0,0,19.94,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P03,O,Chris,1,1,1,0,0,0,0,0,0,12.02,-2,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Chris,1,1,1,0,0,0,0,0,0,5.84,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P09,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,1,2,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,Chris,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Chris,7,4,3,0,0,0,1,0,0,37.41,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,Chris,5,3,2,0,0,0,1,0,0,15.98,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P17,O,Chris,2,1,1,0,0,0,0,0,0,9.35,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Chris,9,6,5,1,0,0,1,0,0,132.01,-8,1,3,0,0,0,1,1,2,1,0
+Cookit Cutters,Cookit Cutters_P01,O,Sky,2,1,0,0,0,0,1,0,0,-8.36,0,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P04,O,Sky,2,1,0,0,0,0,1,0,0,16.48,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Sky,2,1,1,0,1,0,0,0,0,17.96,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-3,0,9,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P16,O,Sky,2,1,0,0,0,0,1,0,0,16.53,-7,0,2,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Sky,1,1,1,0,0,0,0,0,0,3.32,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Sky,0,0,0,0,0,0,0,0,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Mini,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P06,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P07,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Mini,8,4,3,0,0,0,1,0,0,30.23,-3,0,9,0,0,0,0,1,0,0,3
+Cookit Cutters,Cookit Cutters_P13,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Mini,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P19,D,Mini,0,0,0,0,0,0,0,0,0,0.0,-8,1,3,0,0,0,1,1,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,DJJ,7,4,3,0,0,0,1,0,0,43.59,-1,0,5,0,0,1,0,0,0,0,2
+Cookit Cutters,Cookit Cutters_P08,O,DJJ,3,2,2,0,0,0,0,0,0,18.75,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P13,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,DJJ,2,1,1,0,0,0,0,0,0,-14.25,-5,0,1,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P15,O,DJJ,13,7,6,0,0,0,1,1,0,31.77,-6,0,3,0,0,1,0,0,0,0,2
+Cookit Cutters,Cookit Cutters_P18,O,DJJ,3,1,1,0,0,1,0,0,0,44.48,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P10,D,Wenyu Zhu,7,5,3,0,0,0,2,1,0,61.5,-3,0,9,0,0,0,0,1,0,0,1
+Cookit Cutters,Cookit Cutters_P13,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Wenyu Zhu,2,1,1,0,0,0,0,0,0,13.61,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P18,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-9,1,2,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,12.72,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P02,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P04,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P05,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P11,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,0,0,0,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P14,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-5,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Luo Wei,2,1,1,0,0,0,0,0,0,4.01,-6,0,3,0,0,1,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P20,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P01,O,Lina,2,1,1,0,0,0,0,0,0,11.08,0,0,1,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P02,O,Lina,2,1,1,0,0,0,0,0,0,22.61,-1,0,5,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,Lina,2,1,1,0,0,0,0,0,0,12.96,-5,1,1,1,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P12,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-5,1,5,0,1,0,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P15,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-6,0,3,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,Lina,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0
+Cookit Cutters,Cookit Cutters_P08,O,BGK,4,2,2,0,0,0,0,0,0,12.67,-5,1,1,1,1,0,0,0,0,0,1
+Cookit Cutters,Cookit Cutters_P16,O,BGK,2,1,1,0,0,0,0,0,0,1.19,-7,0,2,0,0,1,0,0,0,1,0
+Cookit Cutters,Cookit Cutters_P17,O,BGK,2,1,0,0,0,0,1,0,0,38.89,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,BGK,4,2,1,0,0,0,1,0,0,8.46,-7,0,1,0,0,0,0,1,0,1,0
+Cookit Cutters,Cookit Cutters_P17,O,TARA,0,0,0,0,0,0,0,0,0,0.0,-8,0,1,0,0,1,0,0,0,0,0
+Cookit Cutters,Cookit Cutters_P20,D,TARA,0,0,0,0,0,0,0,0,0,0.0,-7,0,1,0,0,0,0,1,0,0,0

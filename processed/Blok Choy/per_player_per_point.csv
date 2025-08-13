@@ -1,0 +1,113 @@
+game_id,point_uid,team_line,player,touches,throws,completions,assists,secondary_assists,goals,turnovers,blocks,pulls,yards_gain_m,score_diff_start,point_result,num_possessions,clean_hold,hold,broken,break_scored,break_chance,hucks,swings,dumps
+Blok Choy,Blok Choy_P01,D,Gary Gong,5,4,1,0,0,0,3,0,0,64.49,0,1,4,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P03,O,Gary Gong,2,1,1,0,0,0,0,0,0,15.59,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P05,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Gary Gong,2,1,1,0,1,0,0,0,0,23.59,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Gary Gong,4,2,2,1,0,0,0,0,0,57.87,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P11,D,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Gary Gong,4,2,2,1,0,0,0,0,0,18.03,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Gary Gong,6,3,3,0,0,0,0,0,0,26.44,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Gary Hu,5,3,3,1,0,0,0,0,0,12.58,0,1,4,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P03,O,Gary Hu,2,2,1,0,0,0,1,0,0,44.63,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P05,D,Gary Hu,3,2,1,0,0,0,1,0,0,23.48,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P08,D,Gary Hu,3,2,2,0,0,0,0,0,0,5.36,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P10,D,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Gary Hu,0,0,0,0,0,0,0,0,0,0.0,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Gary Hu,2,1,1,0,0,0,0,0,0,9.07,1,0,1,0,0,0,0,1,0,1,0
+Blok Choy,Blok Choy_P16,O,Gary Hu,2,1,1,0,0,0,0,0,0,9.12,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Kaylee,9,4,4,0,0,1,0,0,0,49.01,-1,1,5,0,1,0,0,0,0,0,2
+Blok Choy,Blok Choy_P06,O,Kaylee,2,1,1,0,0,0,0,0,0,5.3,-1,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P08,D,Kaylee,5,2,1,0,0,1,1,0,0,45.34,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P11,D,Kaylee,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Kaylee,4,2,2,1,0,0,0,0,0,16.91,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Avery Qi,2,1,1,0,0,0,0,0,0,-5.15,0,1,4,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P05,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Avery Qi,6,3,3,0,0,0,0,0,0,10.1,-1,1,5,0,0,0,1,1,0,0,2
+Blok Choy,Blok Choy_P10,D,Avery Qi,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Avery Qi,1,1,1,0,0,0,0,0,0,-4.58,1,0,4,0,0,1,0,0,0,1,0
+Blok Choy,Blok Choy_P15,O,Avery Qi,3,1,1,0,0,1,0,0,0,9.02,0,1,1,1,1,0,0,0,0,0,1
+Blok Choy,Blok Choy_P02,D,Leo,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Leo,8,4,3,1,0,0,1,0,0,86.19,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Leo,5,3,3,0,0,0,0,1,0,43.26,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P10,D,Leo,6,3,2,1,0,0,1,0,0,79.62,1,1,2,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P13,O,Leo,3,1,1,0,1,1,0,0,0,45.7,0,1,1,1,1,0,0,0,0,0,1
+Blok Choy,Blok Choy_P14,D,Leo,2,1,1,0,0,0,0,0,0,27.46,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P01,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Luo Wei,2,1,1,0,0,0,0,0,0,13.04,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P16,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,SA,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,SA,6,4,4,0,0,0,0,0,0,28.12,-1,1,5,0,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P06,O,SA,3,2,1,0,0,0,1,0,0,18.75,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,SA,7,5,3,0,1,0,2,0,0,31.2,-1,1,5,0,0,0,1,1,0,0,1
+Blok Choy,Blok Choy_P12,O,SA,4,2,2,0,0,0,0,0,0,39.63,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P16,O,SA,3,2,2,0,0,0,0,0,0,10.34,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Albert Kwek,11,7,5,0,0,0,2,0,0,48.4,-1,1,5,0,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P07,O,Albert Kwek,10,5,4,1,0,0,1,0,0,89.86,-2,1,2,0,1,0,0,0,1,0,1
+Blok Choy,Blok Choy_P09,D,Albert Kwek,10,6,6,0,0,0,0,0,0,43.45,0,1,2,0,0,0,1,1,0,2,0
+Blok Choy,Blok Choy_P12,O,Albert Kwek,4,3,2,0,0,0,1,2,0,23.91,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P16,O,Albert Kwek,6,3,2,0,0,0,1,0,0,54.66,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P07,O,Taozi,1,0,0,0,0,1,0,0,0,43.35,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Taozi,4,2,2,0,0,0,0,1,0,34.9,0,1,2,0,0,0,1,1,0,1,0
+Blok Choy,Blok Choy_P13,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Olivia ,8,4,4,0,1,0,0,0,0,43.05,0,1,2,0,0,0,1,1,0,0,2
+Blok Choy,Blok Choy_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,JF,3,1,1,0,0,1,0,0,0,30.06,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P05,D,JF,2,1,1,0,0,0,0,0,0,6.62,0,0,1,0,0,0,0,1,0,0,1
+Blok Choy,Blok Choy_P08,D,JF,8,4,3,1,0,0,1,0,0,96.99,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P10,D,JF,5,2,2,0,0,1,0,0,0,71.42,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P14,D,JF,3,2,1,0,0,0,1,0,0,57.36,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P04,O,Chris,20,10,9,0,1,0,1,0,0,118.29,-1,1,5,0,1,0,0,0,0,1,1
+Blok Choy,Blok Choy_P07,O,Chris,4,3,3,0,0,0,0,0,0,-0.05,-2,1,2,0,1,0,0,0,0,1,1
+Blok Choy,Blok Choy_P10,D,Chris,6,4,4,0,1,0,0,0,0,53.03,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P13,O,Chris,3,2,2,0,0,0,0,0,0,50.99,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Chris,6,3,3,0,0,0,0,0,0,37.75,0,1,1,1,1,0,0,0,0,1,0
+Blok Choy,Blok Choy_P03,O,Gordon,2,1,0,0,0,0,1,0,0,23.28,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Gordon,3,2,2,0,0,0,0,0,0,14.52,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Gordon,6,3,2,0,0,0,1,0,0,24.81,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Gordon,9,5,3,0,0,0,2,0,0,97.81,1,0,4,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Gordon,3,2,2,0,1,0,0,0,0,18.19,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P01,D,Lina,0,0,0,0,0,0,0,0,0,0.0,0,1,4,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P04,O,Lina,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P08,D,Lina,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P10,D,Lina,0,0,0,0,0,0,0,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P14,D,Lina,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P02,D,Sky,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P04,O,Sky,0,0,0,0,0,0,0,0,0,0.0,-1,1,5,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Sky,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P13,O,Sky,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P15,O,Sky,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P02,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P06,O,Wayne Wang,2,1,0,0,0,0,1,0,0,8.2,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,Wayne Wang,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P05,D,++1,2,1,1,0,0,0,0,0,0,-12.28,0,0,1,0,0,0,0,1,0,0,1
+Blok Choy,Blok Choy_P07,O,++1,0,0,0,0,0,0,0,0,0,0.0,-2,1,2,0,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P11,D,++1,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P14,D,++1,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,1,0,0,0
+Blok Choy,Blok Choy_P03,O,Shellz,4,2,2,0,0,0,0,0,0,4.89,0,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P06,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P10,D,Shellz,2,1,1,0,0,0,0,0,0,15.59,1,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P03,O,Mini,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,Mini,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Blok Choy,Blok Choy_P12,O,Mini,4,2,1,0,0,0,1,0,0,31.28,1,0,4,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P03,O,TARA,2,1,1,0,0,0,0,0,0,2.55,0,0,2,0,0,1,0,0,0,0,1
+Blok Choy,Blok Choy_P13,O,TARA,0,0,0,0,0,0,0,0,0,0.0,0,1,1,1,1,0,0,0,0,0,0
+Blok Choy,Blok Choy_P09,D,DJJ,9,4,4,0,0,1,0,0,0,47.38,0,1,2,0,0,0,1,1,0,0,3
+Blok Choy,Blok Choy_P11,D,DJJ,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Blok Choy,Blok Choy_P03,O,Wenyu Zhu,2,1,1,0,0,0,0,0,0,1.88,0,0,2,0,0,1,0,0,0,0,0

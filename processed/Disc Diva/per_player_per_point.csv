@@ -1,0 +1,143 @@
+game_id,point_uid,team_line,player,touches,throws,completions,assists,secondary_assists,goals,turnovers,blocks,pulls,yards_gain_m,score_diff_start,point_result,num_possessions,clean_hold,hold,broken,break_scored,break_chance,hucks,swings,dumps
+Disc Diva,Disc Diva_P04,O,Albert Kwek,1,1,1,0,0,0,0,0,0,3.32,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P05,D,Albert Kwek,4,2,0,0,0,0,2,0,0,47.3,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P06,O,Albert Kwek,8,5,4,0,1,0,1,1,0,-1.43,-1,1,4,0,1,0,0,0,0,2,1
+Disc Diva,Disc Diva_P08,D,Albert Kwek,8,4,4,0,0,0,0,0,0,13.26,1,1,5,0,0,0,1,1,0,0,2
+Disc Diva,Disc Diva_P09,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Albert Kwek,2,1,1,0,0,0,0,0,0,1.39,0,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P13,O,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Albert Kwek,1,1,1,0,0,0,0,0,0,2.82,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P16,O,Albert Kwek,5,3,2,0,0,0,1,0,0,-37.61,-3,0,1,0,0,1,0,0,0,0,2
+Disc Diva,Disc Diva_P18,D,Albert Kwek,8,5,3,0,0,0,2,0,0,32.76,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Albert Kwek,4,2,2,1,0,0,0,0,0,48.34,-7,1,1,1,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P23,D,Albert Kwek,0,0,0,0,0,0,0,0,0,0.0,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P02,O,Leo,2,1,1,1,0,0,0,0,0,16.82,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P05,D,Leo,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Leo,1,1,1,0,0,0,0,1,0,-3.91,0,1,2,0,0,0,1,1,0,0,1
+Disc Diva,Disc Diva_P09,D,Leo,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P10,O,Leo,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Leo,4,2,2,0,0,0,0,0,0,27.07,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P13,O,Leo,2,1,1,1,0,0,0,0,0,35.63,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Leo,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Leo,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Leo,4,2,2,0,0,0,0,0,0,13.61,-3,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P20,O,Leo,2,1,0,0,0,0,1,0,0,25.88,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Leo,4,2,2,0,1,0,0,0,0,52.8,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Leo,4,2,2,0,0,1,0,0,0,36.52,-6,1,2,0,0,0,1,1,0,1,0
+Disc Diva,Disc Diva_P05,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Olivia ,1,0,0,0,0,1,0,0,0,16.43,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P08,D,Olivia ,4,2,2,0,1,0,0,0,0,39.19,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Olivia ,2,1,0,0,0,0,1,0,0,18.21,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Olivia ,2,1,1,0,0,0,0,0,0,16.87,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Olivia ,2,1,0,0,0,0,1,0,0,21.18,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Olivia ,0,0,0,0,0,0,0,0,0,0.0,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Olivia ,2,1,1,0,0,0,0,0,0,1.09,-6,1,2,0,0,0,1,1,0,0,1
+Disc Diva,Disc Diva_P05,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P08,D,Taozi,2,1,0,0,0,0,1,1,0,11.43,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P11,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Taozi,1,0,0,0,0,1,0,0,0,12.72,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Taozi,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Taozi,2,1,1,0,0,0,0,0,0,19.35,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P19,O,Taozi,2,1,1,0,0,0,0,0,0,8.76,-4,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P21,O,Taozi,0,0,0,0,0,0,0,1,0,0.0,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Taozi,1,0,0,0,0,1,0,0,0,16.08,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Taozi,0,0,0,0,0,0,0,0,0,0.0,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P04,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Kaylee,1,1,1,0,0,0,0,0,0,7.42,-1,1,4,0,1,0,0,0,0,1,0
+Disc Diva,Disc Diva_P08,D,Kaylee,2,1,0,0,0,0,1,0,0,15.54,1,1,5,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Kaylee,2,1,1,0,0,0,0,0,0,17.27,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Kaylee,2,1,1,0,0,0,0,0,0,-0.59,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P16,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Kaylee,4,2,2,0,1,0,0,0,0,37.95,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Kaylee,3,2,2,0,0,0,0,0,0,16.67,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Kaylee,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Kaylee,5,3,2,0,0,0,1,0,0,14.7,-6,0,9,0,0,1,0,0,0,1,1
+Disc Diva,Disc Diva_P23,D,Kaylee,2,1,0,0,0,0,1,0,0,32.36,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P04,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Luo Wei,3,1,1,0,0,1,0,0,0,54.08,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P10,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Luo Wei,2,1,0,0,0,0,1,0,0,10.74,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P13,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Luo Wei,0,0,0,0,0,0,0,0,0,0.0,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Luo Wei,2,1,1,0,0,0,0,0,0,20.48,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P05,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P07,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P09,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Shellz,2,1,0,0,0,0,1,0,0,16.63,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Shellz,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-2,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Shellz,2,1,1,0,0,0,0,0,0,-5.24,-3,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P19,O,Shellz,0,0,0,0,0,0,0,0,0,0.0,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,Shellz,2,1,1,0,0,0,0,0,0,-7.13,-6,0,9,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P04,O,Gary Gong,1,0,0,0,0,1,0,0,0,19.69,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Gary Gong,4,2,1,0,0,0,1,0,0,17.22,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P08,D,Gary Gong,6,4,3,0,0,0,1,0,0,6.14,1,1,5,0,0,0,1,1,0,0,2
+Disc Diva,Disc Diva_P10,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Gary Gong,0,0,0,0,0,0,0,0,0,0.0,-3,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P20,O,Gary Gong,2,2,1,0,0,0,1,1,0,36.76,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P22,O,Gary Gong,2,1,1,0,0,0,0,0,0,4.9,-7,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P23,D,Gary Gong,5,3,3,1,0,0,0,0,0,28.45,-6,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P05,D,Chris,3,2,2,0,0,0,0,0,0,4.5,0,0,2,0,0,0,0,1,0,1,0
+Disc Diva,Disc Diva_P07,D,Chris,2,1,0,0,0,0,1,0,0,46.96,0,1,2,0,0,0,1,1,1,0,0
+Disc Diva,Disc Diva_P08,D,Chris,10,6,5,0,0,1,1,2,0,122.27,1,1,5,0,0,0,1,1,1,1,0
+Disc Diva,Disc Diva_P10,O,Chris,1,1,1,0,0,0,0,0,0,6.78,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Chris,3,2,2,0,0,0,0,0,0,3.61,-1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P16,O,Chris,4,2,2,0,0,0,0,0,0,-25.33,-3,0,1,0,0,1,0,0,0,0,2
+Disc Diva,Disc Diva_P19,O,Chris,1,1,1,0,0,0,0,0,0,2.87,-4,0,2,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P21,O,Chris,5,4,3,0,0,0,1,0,0,-15.69,-6,0,9,0,0,1,0,0,0,1,2
+Disc Diva,Disc Diva_P05,D,Wenyu Zhu,1,1,1,0,0,0,0,0,0,-2.87,0,0,2,0,0,0,0,1,0,0,1
+Disc Diva,Disc Diva_P07,D,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P10,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P12,O,Wenyu Zhu,6,3,3,0,0,0,0,0,0,10.54,-1,0,1,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P17,O,Wenyu Zhu,0,0,0,0,0,0,0,0,0,0.0,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,Wenyu Zhu,2,1,1,0,0,0,0,0,0,-6.43,-3,0,2,0,0,0,0,1,0,1,0
+Disc Diva,Disc Diva_P22,O,Wenyu Zhu,1,1,1,0,0,0,0,0,0,1.19,-7,1,1,1,1,0,0,0,0,1,0
+Disc Diva,Disc Diva_P09,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Gordon,1,1,1,0,0,0,0,0,0,11.73,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P13,O,Gordon,2,1,1,0,0,0,0,0,0,6.33,-2,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P14,D,Gordon,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Gordon,3,2,2,0,0,0,0,0,0,19.94,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P19,O,Gordon,4,2,0,0,0,0,2,0,0,74.67,-4,0,2,0,0,1,0,0,1,0,0
+Disc Diva,Disc Diva_P21,O,Gordon,13,9,6,0,0,0,3,0,0,99.7,-6,0,9,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P02,O,BGK,1,0,0,0,0,1,0,0,0,6.23,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P04,O,BGK,2,1,1,0,1,0,0,0,0,41.07,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P07,D,BGK,3,2,2,1,0,0,0,1,0,18.16,0,1,2,0,0,0,1,1,0,0,0
+Disc Diva,Disc Diva_P13,O,BGK,3,2,2,0,1,0,0,0,0,29.24,-2,1,1,1,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P14,D,BGK,0,0,0,0,0,0,0,0,0,0.0,-1,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P18,D,BGK,0,0,0,0,0,0,0,0,0,0.0,-3,0,2,0,0,0,0,1,0,0,0
+Disc Diva,Disc Diva_P20,O,BGK,0,0,0,0,0,0,0,0,0,0.0,-5,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,JF,10,5,4,1,0,0,1,0,0,57.3,-1,1,4,0,1,0,0,0,0,0,1
+Disc Diva,Disc Diva_P08,D,JF,6,3,3,1,0,0,0,0,0,84.02,1,1,5,0,0,0,1,1,1,1,0
+Disc Diva,Disc Diva_P11,O,JF,2,1,0,0,0,0,1,1,0,52.7,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P15,O,JF,2,1,0,0,0,0,1,0,0,3.02,-2,0,1,0,0,1,0,0,0,1,0
+Disc Diva,Disc Diva_P17,O,JF,6,3,3,1,0,0,0,0,0,29.69,-4,1,1,1,1,0,0,0,0,0,2
+Disc Diva,Disc Diva_P19,O,JF,2,1,1,0,0,0,0,0,0,17.86,-4,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P21,O,JF,8,4,1,0,0,0,3,2,0,88.57,-6,0,9,0,0,1,0,0,0,0,1
+Disc Diva,Disc Diva_P04,O,Vishnu,4,2,2,1,0,0,0,0,0,64.08,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,Vishnu,5,3,3,0,0,0,0,0,0,52.35,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,Vishnu,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+Disc Diva,Disc Diva_P11,O,Vishnu,3,2,2,0,0,0,0,0,0,16.63,0,0,2,0,0,1,0,0,0,0,0
+Disc Diva,Disc Diva_P17,O,Vishnu,3,1,1,0,0,1,0,0,0,20.93,-4,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P04,O,++1,0,0,0,0,0,0,0,0,0,0.0,-1,1,1,1,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P06,O,++1,2,1,1,0,0,0,0,0,0,13.85,-1,1,4,0,1,0,0,0,0,0,0
+Disc Diva,Disc Diva_P09,D,++1,0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0
